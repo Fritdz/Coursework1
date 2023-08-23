@@ -6,8 +6,8 @@
   <packaging>war</packaging>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.7</maven.compiler.source>
-    <maven.compiler.target>1.7</maven.compiler.target>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
     
     <selenium.groupId>org.seleniumhq.selenium</selenium.groupId>
     <selenium.artifactId>selenium-java</selenium.artifactId>
@@ -17,7 +17,7 @@
     <testng.artifactId>testng</testng.artifactId>
     <testng.version>6.9.10</testng.version>
     
-    <!-- jacoco properties -->
+     <!-- jacoco properties -->
 	 <jacoco.groupId>org.jacoco</jacoco.groupId>
 	 <jacoco.artifactId>jacoco-maven-plugin</jacoco.artifactId>
 	 <jacoco.version>0.8.7</jacoco.version>
