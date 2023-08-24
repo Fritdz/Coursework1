@@ -11,32 +11,32 @@
 	<div class="menu=container">
 		<div class="menu-item">
 			<a href="#">
-				<img src="images/image1.jpg" alt="Image 1">
+				<img src="images/1.jpg" alt="Iced Coffee">
 			</a>
 		</div>
 		<div class="menu-item">
 			<a href="#">
-				<img src="images/image2.jpg" alt="Image 2">
+				<img src="images/2.jpg" alt="Cold Brew">
 			</a>
 		</div>
 		<div class="menu-item">
 			<a href="#">
-				<img src="images/image3.jpg" alt="Image 3">
+				<img src="images/3.jpg" alt="Iced Americano">
 			</a>
 		</div>
 		<div class="menu-item">
 			<a href="#">
-				<img src="images/image4.jpg" alt="Image 4">
+				<img src="images/4.jpg" alt="Iced Caramel Macchiato">
 			</a>
 		</div>
 		<div class="menu-item">
 			<a href="#">
-				<img src="images/image5.jpg" alt="Image 5">
+				<img src="images/5.jpg" alt="Iced Shaken Espresso">
 			</a>
 		</div>
 		<div class="menu-item">
 			<a href="#">
-				<img src="images/image6.jpg" alt="Image 6">
+				<img src="images/image6.jpg" alt="Iced Mocha">
 			</a>
 		</div>
 	</div>
