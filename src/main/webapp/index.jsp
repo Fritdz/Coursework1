@@ -36,7 +36,7 @@
 		</div>
 		<div class="menu-item">
 			<a href="#">
-				<img src="images/image6.jpg" alt="Iced Mocha">
+				<img src="images/6.jpg" alt="Iced Mocha">
 			</a>
 		</div>
 	</div>
