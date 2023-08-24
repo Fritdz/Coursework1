@@ -1,0 +1,6 @@
+projectKey=coursework1:coursework1
+serverUrl=http://localhost:9000
+serverVersion=7.8.0.26217
+dashboardUrl=http://localhost:9000/dashboard?id=coursework1%3Acoursework1
+ceTaskId=AYok-AuLzABgJcUngFh_
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYok-AuLzABgJcUngFh_
