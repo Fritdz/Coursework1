@@ -21,7 +21,6 @@ body {
     padding: 10px;
     background-color: #fff;
     transition: transform 0.2s, box-shadow 0.2s;
-    height:50px
 }
 
 .menu-item:hover {
@@ -31,5 +30,5 @@ body {
 
 .menu-item img {
     max-width: 100%;
-    height: auto;
+    height: 15%;
 }
